@@ -24,8 +24,4 @@ describe('what-is-a-test', () => {
 })
 */
 
-describe('Name', () => {
-  it('returns "Cichy"', () => {
-    expect
-  }
-}
+describe('name', )
