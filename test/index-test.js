@@ -24,8 +24,4 @@ describe('what-is-a-test', () => {
 })
 */
 
-describe('height', () => {
-  it('is less than 40', () => {
-    expect(index.name).toBeLessThan(40)
-  })
-}
+describe
