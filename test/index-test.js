@@ -24,8 +24,6 @@ describe('what-is-a-test', () => {
 })
 */
 
-describe('Name', () => {
-  it('returns "Maciej"', () => {
-    expect(index.name).toEq;ual('Susan')
-  })
+describe('height', () => {
+  it()
 }
