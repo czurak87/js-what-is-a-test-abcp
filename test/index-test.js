@@ -24,4 +24,4 @@ describe('what-is-a-test', () => {
 })
 */
 
-describe('name', )
+describe()
